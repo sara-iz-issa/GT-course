@@ -1,1 +1,3 @@
 # GT-course
+
+## Project Notes
